@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Đọc truyện</string>
+    <string name="action_search">Search</string>
+
+        <string name="tags_list">Thể Loại</string>
+        <string name="Home">Trang Chủ</string>
+        <string name="Setting">Cài Đặt</string>
+    <string name="mode">Mode</string>
+    <string name="about_us">About Us</string>
+
+</resources>
